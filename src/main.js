@@ -15,4 +15,4 @@ if (process.browser) {
   });
 }
 
-export default PayPalCheckout;
+module.exports = PayPalCheckout;
